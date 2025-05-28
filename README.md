@@ -33,7 +33,8 @@ This project can be applied to build smarter music platforms that suggest songs 
 
 ## 📂 Project Structure
 
-- `AIMLproject2.ipynb`: Main notebook containing the entire pipeline from data loading to clustering and visualization.
+- `Music-genre-clustering-based-on-audio-features
+.ipynb`: Main notebook containing the entire pipeline from data loading to clustering and visualization.
 - Datasets: Audio features dataset (assumed to be loaded in the notebook)
 
 ## 🚀 How to Run
